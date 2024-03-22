@@ -15,5 +15,5 @@ while (C <= D):
 # output
 
 print("Su capital inicial fue de", D/2 ,)
-print("El dinero dado al banco ya duplico su valor, este es el monto actual", D ,)
+print("El dinero dado al banco ya duplico su valor, este es el monto actual", C ,)
 print("El dinero demoro ", N ,"meses para llegar a este valor")
